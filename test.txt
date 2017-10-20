@@ -1,0 +1,80 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="ASP.NET 2.0.css" />
+<link rel="stylesheet" href="../bootstrap-3.3.7-dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="../bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+
+<title>Share</title>
+</head>
+
+<body>
+	<div id="top">
+		<img id="logo" src="../../element/logo.png" alt="logo" />
+		<div id="search" class="input-group">
+       			<span class="input-group-btn">
+        			<button class="btn btn-default" type="button">Search</button>
+      			</span>
+      			<input type="text" class="form-control">
+      		</div><!-- /input-group -->
+	</div><!-- end top -->
+	
+	<div id="header">
+		<div class="row">
+			
+		</div>
+	</div><!-- end header -->
+	
+	<div id="content">
+		<div id="left_content">
+			<div id="ebook_name">ASP.NET 2.0 - Web Parts In Action</div>
+			<div id="tin_dau">
+				<p>Người đăng: Đặng Vui</p>
+				<p>Ngày đăng: 25/09/2017</p>
+			</div>
+			<img id="ebook" src="../../ASP.png" alt="ebook"/>
+			<div id="tin_cuoi">
+				<p>Tác giả: Darren Neimke</p>
+			</div>
+			<div id="download"><a href="https://goo.gl/ozLt43" target="_blank">DOWNLOAD</a></div>
+		</div>
+		
+		<div id="right_content">
+			<div id="pic_e1"><!-- pic 1 right content -->
+				<img id="ebook1" src="../../Bible.png" alt="ebook1" />
+				<div><a href="../HTML, XHTML and CSS3/HTML, XHTML and CSS3.html">HTML, XHTML and CSS3</a></div>
+			</div><!-- end pic 1 -->
+			<div id="pic_e2"><!-- pic 2 right content -->
+				<img id="ebook2" src="../../Beginning_java.png" alt="ebook2" />
+				<div><a href="../Programming With Java/Programming With Java.html">Beginning Programming With Java For Dummies</a></div>
+			</div><!-- end pic 2 -->
+			<div id="pic_e3"><!-- pic 3 right content -->
+				<img id="ebook3" src="../../C++.png" alt="ebook3" />
+				<div><a href="../C++/C++.html">C++_Programming</a></div>
+			</div><!-- end pic 3 -->
+			<div id="pic_e4"><!-- pic 4 right content -->
+				<img id="ebook4" src="../../Python_3.png" alt="ebook4" />
+				<div><a href="../Python 3 Web Development/Python 3 Web Development.html">Python 3 Web Development Beginners Guide</a></div>
+			</div><!-- end pic 4 -->
+			<div id="pic_e5"><!-- pic 5 right content -->
+				<img id="ebook5" src="../../Responsive_web.png" alt="ebook5" />
+				<div><a href="../Responsive.Web.Design/Responsive.Web.Design.html">Responsive.Web.Design.with.HTML5.and.CSS3</a></div>
+			</div><!-- end pic 5 -->
+			<div id="pic_e6"><!-- pic 6 right content -->
+				<img id="ebook6" src="../../SQL for PYTHON.png" alt="ebook6" />
+				<div><a href="../MySQLforPython/MySQLforPython.html">MySQLforPython</a></div>
+			</div><!-- end pic 6 -->
+		</div>		
+	</div>
+	
+	<div id="footer">
+		<div>
+			<p>Email: lhtrieu.ktpm0115@student.ctuet.edu.vn</p>
+			<p>Tel: 0949.672.502</p>
+			<p>Registered Trademark &#174 2017</p>
+		</div>
+		<img id="td" src="../../element/logo-trai-dat.png" alt="td" />
+	</div>
+</body>
+</html>
